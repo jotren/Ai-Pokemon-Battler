@@ -1,0 +1,167 @@
+﻿id,Name,lowerCaseName,Type,Cat.,Power,Acc.,PP
+1,Absorb,absorb,GRASS,,20,100,25
+2,Acid,acid,POISON,,40,100,30
+3,Acid Armor,acidarmor,POISON,,—,—,20
+4,Agility,agility,PSYCHIC,,—,—,30
+5,Amnesia,amnesia,PSYCHIC,,—,—,20
+6,Aurora Beam,aurorabeam,ICE,,65,100,20
+7,Barrage,barrage,NORMAL,,15,85,20
+8,Barrier,barrier,PSYCHIC,,—,—,20
+9,Bide,bide,NORMAL,,—,—,10
+10,Bind,bind,NORMAL,,15,85,20
+11,Bite,bite,DARK,,60,100,25
+12,Blizzard,blizzard,ICE,,110,70,5
+13,Body Slam,bodyslam,NORMAL,,85,100,15
+14,Bone Club,boneclub,GROUND,,65,85,20
+15,Bonemerang,bonemerang,GROUND,,50,90,10
+16,Bubble,bubble,WATER,,40,100,30
+17,Bubble Beam,bubblebeam,WATER,,65,100,20
+18,Clamp,clamp,WATER,,35,85,15
+19,Comet Punch,cometpunch,NORMAL,,18,85,15
+20,Confuse Ray,confuseray,GHOST,,—,100,10
+21,Confusion,confusion,PSYCHIC,,50,100,25
+22,Constrict,constrict,NORMAL,,10,100,35
+23,Conversion,conversion,NORMAL,,—,—,30
+24,Counter,counter,FIGHTING,,—,100,20
+25,Crabhammer,crabhammer,WATER,,100,90,10
+26,Cut,cut,NORMAL,,50,95,30
+27,Defense Curl,defensecurl,NORMAL,,—,—,40
+28,Dig,dig,GROUND,,80,100,10
+29,Disable,disable,NORMAL,,—,100,20
+30,Dizzy Punch,dizzypunch,NORMAL,,70,100,10
+31,Double Kick,doublekick,FIGHTING,,30,100,30
+32,Double Slap,doubleslap,NORMAL,,15,85,10
+33,Double Team,doubleteam,NORMAL,,—,—,15
+34,Double Edge,doubleedge,NORMAL,,120,100,15
+35,Dragon Rage,dragonrage,DRAGON,,—,100,10
+36,Dream Eater,dreameater,PSYCHIC,,100,100,15
+37,Drill Peck,drillpeck,FLYING,,80,100,20
+38,Earthquake,earthquake,GROUND,,100,100,10
+39,Egg Bomb,eggbomb,NORMAL,,100,75,10
+40,Ember,ember,FIRE,,40,100,25
+41,Explosion,explosion,NORMAL,,250,100,5
+42,Fire Blast,fireblast,FIRE,,110,85,5
+43,Fire Punch,firepunch,FIRE,,75,100,15
+44,Fire Spin,firespin,FIRE,,35,85,15
+45,Fissure,fissure,GROUND,,—,30,5
+46,Flamethrower,flamethrower,FIRE,,90,100,15
+47,Flash,flash,NORMAL,,—,100,20
+48,Fly,fly,FLYING,,90,95,15
+49,Focus Energy,focusenergy,NORMAL,,—,—,30
+50,Fury Attack,furyattack,NORMAL,,15,85,20
+51,Fury Swipes,furyswipes,NORMAL,,18,80,15
+52,Glare,glare,NORMAL,,—,100,30
+53,Growl,growl,NORMAL,,—,100,40
+54,Growth,growth,NORMAL,,—,—,20
+55,Guillotine,guillotine,NORMAL,,—,30,5
+56,Gust,gust,FLYING,,40,100,35
+57,Harden,harden,NORMAL,,—,—,30
+58,Haze,haze,ICE,,—,—,30
+59,Headbutt,headbutt,NORMAL,,70,100,15
+60,High Jump Kick,highjumpkick,FIGHTING,,130,90,10
+61,Horn Attack,hornattack,NORMAL,,65,100,25
+62,Horn Drill,horndrill,NORMAL,,—,30,5
+63,Hydro Pump,hydropump,WATER,,110,80,5
+64,Hyper Beam,hyperbeam,NORMAL,,150,90,5
+65,Hyper Fang,hyperfang,NORMAL,,80,90,15
+66,Hypnosis,hypnosis,PSYCHIC,,—,60,20
+67,Ice Beam,icebeam,ICE,,90,100,10
+68,Ice Punch,icepunch,ICE,,75,100,15
+69,Jump Kick,jumpkick,FIGHTING,,100,95,10
+70,Karate Chop,karatechop,FIGHTING,,50,100,25
+71,Kinesis,kinesis,PSYCHIC,,—,80,15
+72,Leech Life,leechlife,BUG,,80,100,10
+73,Leech Seed,leechseed,GRASS,,—,90,10
+74,Leer,leer,NORMAL,,—,100,30
+75,Lick,lick,GHOST,,30,100,30
+76,Light Screen,lightscreen,PSYCHIC,,—,—,30
+77,Lovely Kiss,lovelykiss,NORMAL,,—,75,10
+78,Low Kick,lowkick,FIGHTING,,—,100,20
+79,Meditate,meditate,PSYCHIC,,—,—,40
+80,Mega Drain,megadrain,GRASS,,40,100,15
+81,Mega Kick,megakick,NORMAL,,120,75,5
+82,Mega Punch,megapunch,NORMAL,,80,85,20
+83,Metronome,metronome,NORMAL,,—,—,10
+84,Mimic,mimic,NORMAL,,—,—,10
+85,Minimize,minimize,NORMAL,,—,—,10
+86,Mirror Move,mirrormove,FLYING,,—,—,20
+87,Mist,mist,ICE,,—,—,30
+88,Night Shade,nightshade,GHOST,,—,100,15
+89,Pay Day,payday,NORMAL,,40,100,20
+90,Peck,peck,FLYING,,35,100,35
+91,Petal Dance,petaldance,GRASS,,120,100,10
+92,Pin Missile,pinmissile,BUG,,25,95,20
+93,Poison Gas,poisongas,POISON,,—,90,40
+94,Poison Powder,poisonpowder,POISON,,—,75,35
+95,Poison Sting,poisonsting,POISON,,15,100,35
+96,Pound,pound,NORMAL,,40,100,35
+97,Psybeam,psybeam,PSYCHIC,,65,100,20
+98,Psychic,psychic,PSYCHIC,,90,100,10
+99,Psywave,psywave,PSYCHIC,,—,100,15
+100,Quick Attack,quickattack,NORMAL,,40,100,30
+101,Rage,rage,NORMAL,,20,100,20
+102,Razor Leaf,razorleaf,GRASS,,55,95,25
+103,Razor Wind,razorwind,NORMAL,,80,100,10
+104,Recover,recover,NORMAL,,—,—,5
+105,Reflect,reflect,PSYCHIC,,—,—,20
+106,Rest,rest,PSYCHIC,,—,—,5
+107,Roar,roar,NORMAL,,—,—,20
+108,Rock Slide,rockslide,ROCK,,75,90,10
+109,Rock Throw,rockthrow,ROCK,,50,90,15
+110,Rolling Kick,rollingkick,FIGHTING,,60,85,15
+111,Sand Attack,sandattack,GROUND,,—,100,15
+112,Scratch,scratch,NORMAL,,40,100,35
+113,Screech,screech,NORMAL,,—,85,40
+114,Seismic Toss,seismictoss,FIGHTING,,—,100,20
+115,Self-Destruct,self-destruct,NORMAL,,200,100,5
+116,Sharpen,sharpen,NORMAL,,—,—,30
+117,Sing,sing,NORMAL,,—,55,15
+118,Skull Bash,skullbash,NORMAL,,130,100,10
+119,Sky Attack,skyattack,FLYING,,140,90,5
+120,Slam,slam,NORMAL,,80,75,20
+121,Slash,slash,NORMAL,,70,100,20
+122,Sleep Powder,sleeppowder,GRASS,,—,75,15
+123,Sludge,sludge,POISON,,65,100,20
+124,Smog,smog,POISON,,30,70,20
+125,Smokescreen,smokescreen,NORMAL,,—,100,20
+126,Soft-Boiled,soft-boiled,NORMAL,,—,—,5
+127,Solar Beam,solarbeam,GRASS,,120,100,10
+128,Sonic Boom,sonicboom,NORMAL,,—,90,20
+129,Spike Cannon,spikecannon,NORMAL,,20,100,15
+130,Splash,splash,NORMAL,,—,—,40
+131,Spore,spore,GRASS,,—,100,15
+132,Stomp,stomp,NORMAL,,65,100,20
+133,Strength,strength,NORMAL,,80,100,15
+134,String Shot,stringshot,BUG,,—,95,40
+135,Struggle,struggle,NORMAL,,50,—,—
+136,Stun Spore,stunspore,GRASS,,—,75,30
+137,Submission,submission,FIGHTING,,80,80,20
+138,Substitute,substitute,NORMAL,,—,—,10
+139,Super Fang,superfang,NORMAL,,—,90,10
+140,Supersonic,supersonic,NORMAL,,—,55,20
+141,Surf,surf,WATER,,90,100,15
+142,Swift,swift,NORMAL,,60,∞,20
+143,Swords Dance,swordsdance,NORMAL,,—,—,20
+144,Tackle,tackle,NORMAL,,40,100,35
+145,Tail Whip,tailwhip,NORMAL,,—,100,30
+146,Take Down,takedown,NORMAL,,90,85,20
+147,Teleport,teleport,PSYCHIC,,—,—,20
+148,Thrash,thrash,NORMAL,,120,100,10
+149,Thunder,thunder,ELECTRIC,,110,70,10
+150,Thunder Punch,thunderpunch,ELECTRIC,,75,100,15
+151,Thunder Shock,thundershock,ELECTRIC,,40,100,30
+152,Thunder Wave,thunderwave,ELECTRIC,,—,90,20
+153,Thunderbolt,thunderbolt,ELECTRIC,,90,100,15
+154,Toxic,toxic,POISON,,—,90,10
+155,Transform,transform,NORMAL,,—,—,10
+156,Tri Attack,triattack,NORMAL,,80,100,10
+157,Twineedle,twineedle,BUG,,25,100,20
+158,Vine Whip,vinewhip,GRASS,,45,100,25
+159,Vise Grip,visegrip,NORMAL,,55,100,30
+160,Water Gun,watergun,WATER,,40,100,25
+161,Waterfall,waterfall,WATER,,80,100,15
+162,Whirlwind,whirlwind,NORMAL,,—,—,20
+163,Wing Attack,wingattack,FLYING,,60,100,35
+164,Withdraw,withdraw,WATER,,—,—,40
+165,Wrap,wrap,NORMAL,,15,90,20
+166,Recharge,recharge,NORMAL,,,,

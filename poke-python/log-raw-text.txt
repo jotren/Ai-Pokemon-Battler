@@ -1,0 +1,426 @@
+200
+|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zkqfrlr)
+|inactive|zkqfrlr has 120 seconds left.
+|
+|t:|1677763362
+|move|p1a: Spearow|Double-Edge|p2a: Charmeleon
+|-damage|p2a: Charmeleon|150/257
+|-damage|p1a: Spearow|224/250|[from] Recoil|[of] p2a: Charmeleon
+|move|p2a: Charmeleon|Fire Blast|p1a: Spearow
+|-crit|p1a: Spearow
+|-damage|p1a: Spearow|0 fnt
+|faint|p1a: Spearow
+|
+|t:|1677763369
+|switch|p1a: Mew|Mew, L65|265/265
+
+|2
+|
+|t:|1677763374
+|move|p2a: Charmeleon|Swords Dance|p2a: Charmeleon
+|-boost|p2a: Charmeleon|atk|2
+|move|p1a: Mew|Thunder Wave|p2a: Charmeleon
+|-status|p2a: Charmeleon|par
+|
+|upkeep
+
+|3
+|
+|t:|1677763381
+|move|p1a: Mew|Psychic|p2a: Charmeleon
+|-damage|p2a: Charmeleon|78/257 par
+|move|p2a: Charmeleon|Body Slam|p1a: Mew
+|-crit|p1a: Mew
+|-damage|p1a: Mew|162/265
+|-status|p1a: Mew|par
+|
+|upkeep
+
+|4
+|
+|t:|1677763389
+|move|p2a: Charmeleon|Fire Blast|p1a: Mew
+|-crit|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|t:|1677763393
+|switch|p1a: Articuno|Articuno, L74|286/286
+
+|5
+|
+|t:|1677763400
+|move|p1a: Articuno|Blizzard|p2a: Charmeleon
+|-damage|p2a: Charmeleon|0 fnt
+|faint|p2a: Charmeleon
+|
+|t:|1677763419
+|switch|p2a: Raticate|Raticate, L77|243/243
+
+|6
+|
+|t:|1677763424
+|move|p2a: Raticate|Super Fang|p1a: Articuno
+|-damage|p1a: Articuno|143/286
+|move|p1a: Articuno|Blizzard|p2a: Raticate
+|-crit|p2a: Raticate
+|-damage|p2a: Raticate|0 fnt
+|faint|p2a: Raticate
+|
+|t:|1677763437
+|switch|p2a: Tentacruel|Tentacruel, L74|271/271
+
+|7
+|
+|t:|1677763443
+|switch|p1a: Voltorb|Voltorb, L88|250/250
+|move|p2a: Tentacruel|Swords Dance|p2a: Tentacruel
+|-boost|p2a: Tentacruel|atk|2
+|
+|upkeep
+
+|8
+|
+|t:|1677763452
+|switch|p2a: Parasect|Parasect, L77|251/251
+|move|p1a: Voltorb|Thunder Wave|p2a: Parasect
+|-status|p2a: Parasect|par
+|
+|upkeep
+
+|9
+|
+|t:|1677763473
+|switch|p1a: Lickitung|Lickitung, L77|297/297
+|move|p2a: Parasect|Spore|p1a: Lickitung
+|-status|p1a: Lickitung|slp|[from] move: Spore
+|
+|upkeep
+
+|10
+|
+|t:|1677763486
+|switch|p2a: Tentacruel|Tentacruel, L74|271/271
+|cant|p1a: Lickitung|slp
+|
+|upkeep
+
+|11
+|
+|t:|1677763492
+|switch|p1a: Voltorb|Voltorb, L88|250/250
+|move|p2a: Tentacruel|Hydro Pump|p1a: Voltorb
+|-damage|p1a: Voltorb|117/250
+|
+|upkeep
+
+|12
+|
+|t:|1677763500
+|switch|p2a: Parasect|Parasect, L77|251/251 par
+|move|p1a: Voltorb|Thunder Wave|p2a: Parasect
+|-fail|p2a: Parasect|par
+|
+|upkeep
+
+|13
+|
+|t:|1677763509
+|switch|p1a: Lickitung|Lickitung, L77|297/297 slp
+|move|p2a: Parasect|Body Slam|p1a: Lickitung
+|-damage|p1a: Lickitung|236/297 slp
+|
+|upkeep
+
+|14
+|
+|t:|1677763516
+|switch|p1a: Articuno|Articuno, L74|143/286
+|switch|p2a: Tentacruel|Tentacruel, L74|271/271
+|
+|upkeep
+
+|15
+|
+|t:|1677763527
+|switch|p1a: Lickitung|Lickitung, L77|236/297 slp
+|move|p2a: Tentacruel|Hydro Pump|p1a: Lickitung
+|-damage|p1a: Lickitung|78/297 slp
+|
+|upkeep
+
+|16
+|
+|t:|1677763536
+|switch|p1a: Voltorb|Voltorb, L88|117/250
+|move|p2a: Tentacruel|Hydro Pump|p1a: Voltorb
+|-damage|p1a: Voltorb|0 fnt
+|faint|p1a: Voltorb
+|
+|t:|1677763540
+|switch|p1a: Venonat|Venonat, L88|285/285
+
+|17
+|
+|t:|1677763549
+|switch|p2a: Parasect|Parasect, L77|251/251 par
+|switch|p1a: Articuno|Articuno, L74|143/286
+|
+|upkeep
+
+|18
+|
+|t:|1677763558
+|switch|p2a: Tentacruel|Tentacruel, L74|271/271
+|move|p1a: Articuno|Blizzard|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|220/271
+|-status|p2a: Tentacruel|frz
+|
+|upkeep
+
+|19
+|
+|t:|1677763570
+|cant|p2a: Tentacruel|frz
+|move|p1a: Articuno|Blizzard|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|164/271 frz
+|
+|upkeep
+
+|20
+|
+|t:|1677763586
+|cant|p2a: Tentacruel|frz
+|move|p1a: Articuno|Mimic|p2a: Tentacruel
+|-start|p1a: Articuno|Mimic|Hyper Beam
+|
+|upkeep
+
+|21
+|
+|t:|1677763592
+|switch|p1a: Lickitung|Lickitung, L77|78/297 slp
+|cant|p2a: Tentacruel|frz
+|
+|upkeep
+
+|22
+|
+|t:|1677763600
+|switch|p2a: Porygon|Porygon, L77|258/258
+|switch|p1a: Articuno|Articuno, L74|143/286
+|
+|upkeep
+
+|23
+|
+|t:|1677763606
+|switch|p1a: Lickitung|Lickitung, L77|78/297 slp
+|move|p2a: Porygon|Thunder Wave|p1a: Lickitung
+|-fail|p1a: Lickitung
+|
+|upkeep
+
+|24
+|
+|t:|1677763613
+|switch|p1a: Venonat|Venonat, L88|285/285
+|move|p2a: Porygon|Double-Edge|p1a: Venonat
+|-damage|p1a: Venonat|196/285
+|-damage|p2a: Porygon|236/258|[from] Recoil|[of] p1a: Venonat
+|
+|upkeep
+
+|25
+|
+|t:|1677763626
+|switch|p2a: Parasect|Parasect, L77|251/251 par
+|move|p1a: Venonat|Sleep Powder|p2a: Parasect
+|-fail|p2a: Parasect
+|
+|upkeep
+
+|26
+|
+|t:|1677763634
+|switch|p1a: Articuno|Articuno, L74|143/286
+|cant|p2a: Parasect|par
+|
+|upkeep
+
+|27
+|
+|t:|1677763641
+|switch|p1a: Venonat|Venonat, L88|196/285
+|switch|p2a: Tentacruel|Tentacruel, L74|164/271 frz
+|
+|upkeep
+
+|28
+|
+|t:|1677763647
+|cant|p2a: Tentacruel|frz
+|move|p1a: Venonat|Sleep Powder|p2a: Tentacruel
+|-fail|p2a: Tentacruel
+|
+|upkeep
+
+|29
+|
+|t:|1677763654
+|cant|p2a: Tentacruel|frz
+|move|p1a: Venonat|Psychic|p2a: Tentacruel
+|-supereffective|p2a: Tentacruel
+|-damage|p2a: Tentacruel|89/271 frz
+|-unboost|p2a: Tentacruel|spd|1
+|-unboost|p2a: Tentacruel|spa|1
+|
+|upkeep
+
+|30
+|
+|t:|1677763661
+|cant|p2a: Tentacruel|frz
+|move|p1a: Venonat|Sleep Powder|p2a: Tentacruel
+|-fail|p2a: Tentacruel
+|
+|upkeep
+
+|31
+|
+|t:|1677763668
+|cant|p2a: Tentacruel|frz
+|move|p1a: Venonat|Psychic|p2a: Tentacruel
+|-supereffective|p2a: Tentacruel
+|-damage|p2a: Tentacruel|0 fnt
+|faint|p2a: Tentacruel
+|
+|t:|1677763677
+|switch|p2a: Parasect|Parasect, L77|251/251 par
+
+|32
+|
+|t:|1677763692
+|switch|p1a: Lickitung|Lickitung, L77|78/297 slp
+|move|p2a: Parasect|Body Slam|p1a: Lickitung
+|-damage|p1a: Lickitung|20/297 slp
+|
+|upkeep
+
+|33
+|
+|t:|1677763703
+|switch|p2a: Hitmonchan|Hitmonchan, L77|235/235
+|cant|p1a: Lickitung|slp
+|
+|upkeep
+
+|34
+|
+|t:|1677763713
+|move|p2a: Hitmonchan|Body Slam|p1a: Lickitung
+|-damage|p1a: Lickitung|0 fnt
+|faint|p1a: Lickitung
+|
+|t:|1677763715
+|switch|p1a: Venonat|Venonat, L88|196/285
+
+|35
+|
+|t:|1677763720
+|switch|p2a: Parasect|Parasect, L77|251/251 par
+|switch|p1a: Articuno|Articuno, L74|143/286
+|
+|upkeep
+
+|36
+|
+|t:|1677763726
+|move|p1a: Articuno|Blizzard|p2a: Parasect|[miss]
+|-miss|p1a: Articuno
+|move|p2a: Parasect|Spore|p1a: Articuno
+|-status|p1a: Articuno|slp|[from] move: Spore
+|
+|upkeep
+
+|37
+|
+|t:|1677763735
+|switch|p2a: Hitmonchan|Hitmonchan, L77|235/235
+|cant|p1a: Articuno|slp
+|
+|upkeep
+
+|38
+|
+|t:|1677763742
+|cant|p1a: Articuno|slp
+|move|p2a: Hitmonchan|Seismic Toss|p1a: Articuno
+|-damage|p1a: Articuno|66/286 slp
+|
+|upkeep
+
+|39
+|j| superdanielito
+|
+|t:|1677763750
+|cant|p1a: Articuno|slp
+|move|p2a: Hitmonchan|Seismic Toss|p1a: Articuno
+|-damage|p1a: Articuno|0 fnt
+|faint|p1a: Articuno
+|
+|t:|1677763754
+|switch|p1a: Venonat|Venonat, L88|196/285
+
+|40
+|
+|t:|1677763766
+|move|p2a: Hitmonchan|Seismic Toss|p1a: Venonat
+|-damage|p1a: Venonat|119/285
+|move|p1a: Venonat|Psychic|p2a: Hitmonchan
+|-supereffective|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|71/235
+|-unboost|p2a: Hitmonchan|spd|1
+|-unboost|p2a: Hitmonchan|spa|1
+|
+|upkeep
+
+|41
+|
+|t:|1677763779
+|move|p2a: Hitmonchan|Seismic Toss|p1a: Venonat
+|-damage|p1a: Venonat|42/285
+|move|p1a: Venonat|Psychic|p2a: Hitmonchan
+|-supereffective|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|0 fnt
+|faint|p2a: Hitmonchan
+|
+|t:|1677763788
+|switch|p2a: Parasect|Parasect, L77|251/251 par
+
+|42
+|
+|t:|1677763792
+|move|p1a: Venonat|Psychic|p2a: Parasect
+|-damage|p2a: Parasect|204/251 par
+|-unboost|p2a: Parasect|spd|1
+|-unboost|p2a: Parasect|spa|1
+|cant|p2a: Parasect|par
+|
+|upkeep
+
+|43
+|
+|t:|1677763799
+|move|p1a: Venonat|Psychic|p2a: Parasect
+|-damage|p2a: Parasect|130/251 par
+|move|p2a: Parasect|Body Slam|p1a: Venonat
+|-damage|p1a: Venonat|0 fnt
+|faint|p1a: Venonat
+|
+|win|Yifu3
+|raw|zkqfrlr's rating: 1444 &rarr; <strong>1422</strong><br />(-22 for losing)
+|raw|Yifu3's rating: 1412 &rarr; <strong>1434</strong><br />(+22 for winning)

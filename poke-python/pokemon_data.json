@@ -1,0 +1,1052 @@
+{
+    "bulbasaur": {
+        "id": 1,
+        "Name": "Bulbasaur",
+        "Types": 2,
+        "Type1": 8,
+        "Type2": 12
+    },
+    "ivysaur": {
+        "id": 2,
+        "Name": "Ivysaur",
+        "Types": 2,
+        "Type1": 8,
+        "Type2": 12
+    },
+    "venusaur": {
+        "id": 3,
+        "Name": "Venusaur",
+        "Types": 2,
+        "Type1": 8,
+        "Type2": 12
+    },
+    "charmander": {
+        "id": 4,
+        "Name": "Charmander",
+        "Types": 1,
+        "Type1": 5,
+        "Type2": 0
+    },
+    "charmeleon": {
+        "id": 5,
+        "Name": "Charmeleon",
+        "Types": 1,
+        "Type1": 5,
+        "Type2": 0
+    },
+    "charizard": {
+        "id": 6,
+        "Name": "Charizard",
+        "Types": 2,
+        "Type1": 5,
+        "Type2": 6
+    },
+    "squirtle": {
+        "id": 7,
+        "Name": "Squirtle",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "wartortle": {
+        "id": 8,
+        "Name": "Wartortle",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "blastoise": {
+        "id": 9,
+        "Name": "Blastoise",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "caterpie": {
+        "id": 10,
+        "Name": "Caterpie",
+        "Types": 1,
+        "Type1": 1,
+        "Type2": 0
+    },
+    "metapod": {
+        "id": 11,
+        "Name": "Metapod",
+        "Types": 1,
+        "Type1": 1,
+        "Type2": 0
+    },
+    "butterfree": {
+        "id": 12,
+        "Name": "Butterfree",
+        "Types": 2,
+        "Type1": 1,
+        "Type2": 6
+    },
+    "weedle": {
+        "id": 13,
+        "Name": "Weedle",
+        "Types": 2,
+        "Type1": 1,
+        "Type2": 12
+    },
+    "kakuna": {
+        "id": 14,
+        "Name": "Kakuna",
+        "Types": 2,
+        "Type1": 1,
+        "Type2": 12
+    },
+    "beedrill": {
+        "id": 15,
+        "Name": "Beedrill",
+        "Types": 2,
+        "Type1": 1,
+        "Type2": 12
+    },
+    "pidgey": {
+        "id": 16,
+        "Name": "Pidgey",
+        "Types": 2,
+        "Type1": 11,
+        "Type2": 6
+    },
+    "pidgeotto": {
+        "id": 17,
+        "Name": "Pidgeotto",
+        "Types": 2,
+        "Type1": 11,
+        "Type2": 6
+    },
+    "pidgeot": {
+        "id": 18,
+        "Name": "Pidgeot",
+        "Types": 2,
+        "Type1": 11,
+        "Type2": 6
+    },
+    "rattata": {
+        "id": 19,
+        "Name": "Rattata",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "raticate": {
+        "id": 20,
+        "Name": "Raticate",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "spearow": {
+        "id": 21,
+        "Name": "Spearow",
+        "Types": 2,
+        "Type1": 11,
+        "Type2": 6
+    },
+    "fearow": {
+        "id": 22,
+        "Name": "Fearow",
+        "Types": 2,
+        "Type1": 11,
+        "Type2": 6
+    },
+    "ekans": {
+        "id": 23,
+        "Name": "Ekans",
+        "Types": 1,
+        "Type1": 12,
+        "Type2": 0
+    },
+    "arbok": {
+        "id": 24,
+        "Name": "Arbok",
+        "Types": 1,
+        "Type1": 12,
+        "Type2": 0
+    },
+    "pikachu": {
+        "id": 25,
+        "Name": "Pikachu",
+        "Types": 1,
+        "Type1": 3,
+        "Type2": 0
+    },
+    "raichu": {
+        "id": 26,
+        "Name": "Raichu",
+        "Types": 1,
+        "Type1": 3,
+        "Type2": 0
+    },
+    "sandshrew": {
+        "id": 27,
+        "Name": "Sandshrew",
+        "Types": 1,
+        "Type1": 9,
+        "Type2": 0
+    },
+    "sandslash": {
+        "id": 28,
+        "Name": "Sandslash",
+        "Types": 1,
+        "Type1": 9,
+        "Type2": 0
+    },
+    "nidoran": {
+        "id": 32,
+        "Name": "Nidoran",
+        "Types": 1,
+        "Type1": 12,
+        "Type2": 0
+    },
+    "nidorina": {
+        "id": 30,
+        "Name": "Nidorina",
+        "Types": 1,
+        "Type1": 12,
+        "Type2": 0
+    },
+    "nidoqueen": {
+        "id": 31,
+        "Name": "Nidoqueen",
+        "Types": 2,
+        "Type1": 12,
+        "Type2": 9
+    },
+    "nidorino": {
+        "id": 33,
+        "Name": "Nidorino",
+        "Types": 1,
+        "Type1": 12,
+        "Type2": 0
+    },
+    "nidoking": {
+        "id": 34,
+        "Name": "Nidoking",
+        "Types": 2,
+        "Type1": 12,
+        "Type2": 9
+    },
+    "clefairy": {
+        "id": 35,
+        "Name": "Clefairy",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "clefable": {
+        "id": 36,
+        "Name": "Clefable",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "vulpix": {
+        "id": 37,
+        "Name": "Vulpix",
+        "Types": 1,
+        "Type1": 5,
+        "Type2": 0
+    },
+    "ninetales": {
+        "id": 38,
+        "Name": "Ninetales",
+        "Types": 1,
+        "Type1": 5,
+        "Type2": 0
+    },
+    "jigglypuff": {
+        "id": 39,
+        "Name": "Jigglypuff",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "wigglytuff": {
+        "id": 40,
+        "Name": "Wigglytuff",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "zubat": {
+        "id": 41,
+        "Name": "Zubat",
+        "Types": 2,
+        "Type1": 12,
+        "Type2": 6
+    },
+    "golbat": {
+        "id": 42,
+        "Name": "Golbat",
+        "Types": 2,
+        "Type1": 12,
+        "Type2": 6
+    },
+    "oddish": {
+        "id": 43,
+        "Name": "Oddish",
+        "Types": 2,
+        "Type1": 8,
+        "Type2": 12
+    },
+    "gloom": {
+        "id": 44,
+        "Name": "Gloom",
+        "Types": 2,
+        "Type1": 8,
+        "Type2": 12
+    },
+    "vileplume": {
+        "id": 45,
+        "Name": "Vileplume",
+        "Types": 2,
+        "Type1": 8,
+        "Type2": 12
+    },
+    "paras": {
+        "id": 46,
+        "Name": "Paras",
+        "Types": 2,
+        "Type1": 1,
+        "Type2": 8
+    },
+    "parasect": {
+        "id": 47,
+        "Name": "Parasect",
+        "Types": 2,
+        "Type1": 1,
+        "Type2": 8
+    },
+    "venonat": {
+        "id": 48,
+        "Name": "Venonat",
+        "Types": 2,
+        "Type1": 1,
+        "Type2": 12
+    },
+    "venomoth": {
+        "id": 49,
+        "Name": "Venomoth",
+        "Types": 2,
+        "Type1": 1,
+        "Type2": 12
+    },
+    "diglett": {
+        "id": 50,
+        "Name": "Diglett",
+        "Types": 1,
+        "Type1": 9,
+        "Type2": 0
+    },
+    "dugtrio": {
+        "id": 51,
+        "Name": "Dugtrio",
+        "Types": 1,
+        "Type1": 9,
+        "Type2": 0
+    },
+    "meowth": {
+        "id": 52,
+        "Name": "Meowth",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "persian": {
+        "id": 53,
+        "Name": "Persian",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "psyduck": {
+        "id": 54,
+        "Name": "Psyduck",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "golduck": {
+        "id": 55,
+        "Name": "Golduck",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "mankey": {
+        "id": 56,
+        "Name": "Mankey",
+        "Types": 1,
+        "Type1": 4,
+        "Type2": 0
+    },
+    "primeape": {
+        "id": 57,
+        "Name": "Primeape",
+        "Types": 1,
+        "Type1": 4,
+        "Type2": 0
+    },
+    "growlithe": {
+        "id": 58,
+        "Name": "Growlithe",
+        "Types": 1,
+        "Type1": 5,
+        "Type2": 0
+    },
+    "arcanine": {
+        "id": 59,
+        "Name": "Arcanine",
+        "Types": 1,
+        "Type1": 5,
+        "Type2": 0
+    },
+    "poliwag": {
+        "id": 60,
+        "Name": "Poliwag",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "poliwhirl": {
+        "id": 61,
+        "Name": "Poliwhirl",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "poliwrath": {
+        "id": 62,
+        "Name": "Poliwrath",
+        "Types": 2,
+        "Type1": 15,
+        "Type2": 4
+    },
+    "abra": {
+        "id": 63,
+        "Name": "Abra",
+        "Types": 1,
+        "Type1": 13,
+        "Type2": 0
+    },
+    "kadabra": {
+        "id": 64,
+        "Name": "Kadabra",
+        "Types": 1,
+        "Type1": 13,
+        "Type2": 0
+    },
+    "alakazam": {
+        "id": 65,
+        "Name": "Alakazam",
+        "Types": 1,
+        "Type1": 13,
+        "Type2": 0
+    },
+    "machop": {
+        "id": 66,
+        "Name": "Machop",
+        "Types": 1,
+        "Type1": 4,
+        "Type2": 0
+    },
+    "machoke": {
+        "id": 67,
+        "Name": "Machoke",
+        "Types": 1,
+        "Type1": 4,
+        "Type2": 0
+    },
+    "machamp": {
+        "id": 68,
+        "Name": "Machamp",
+        "Types": 1,
+        "Type1": 4,
+        "Type2": 0
+    },
+    "bellsprout": {
+        "id": 69,
+        "Name": "Bellsprout",
+        "Types": 2,
+        "Type1": 8,
+        "Type2": 12
+    },
+    "weepinbell": {
+        "id": 70,
+        "Name": "Weepinbell",
+        "Types": 2,
+        "Type1": 8,
+        "Type2": 12
+    },
+    "victreebel": {
+        "id": 71,
+        "Name": "Victreebel",
+        "Types": 2,
+        "Type1": 8,
+        "Type2": 12
+    },
+    "tentacool": {
+        "id": 72,
+        "Name": "Tentacool",
+        "Types": 2,
+        "Type1": 15,
+        "Type2": 12
+    },
+    "tentacruel": {
+        "id": 73,
+        "Name": "Tentacruel",
+        "Types": 2,
+        "Type1": 15,
+        "Type2": 12
+    },
+    "geodude": {
+        "id": 74,
+        "Name": "Geodude",
+        "Types": 2,
+        "Type1": 14,
+        "Type2": 9
+    },
+    "graveler": {
+        "id": 75,
+        "Name": "Graveler",
+        "Types": 2,
+        "Type1": 14,
+        "Type2": 9
+    },
+    "golem": {
+        "id": 76,
+        "Name": "Golem",
+        "Types": 2,
+        "Type1": 14,
+        "Type2": 9
+    },
+    "ponyta": {
+        "id": 77,
+        "Name": "Ponyta",
+        "Types": 1,
+        "Type1": 5,
+        "Type2": 0
+    },
+    "rapidash": {
+        "id": 78,
+        "Name": "Rapidash",
+        "Types": 1,
+        "Type1": 5,
+        "Type2": 0
+    },
+    "slowpoke": {
+        "id": 79,
+        "Name": "Slowpoke",
+        "Types": 2,
+        "Type1": 15,
+        "Type2": 13
+    },
+    "slowbro": {
+        "id": 80,
+        "Name": "Slowbro",
+        "Types": 2,
+        "Type1": 15,
+        "Type2": 13
+    },
+    "magnemite": {
+        "id": 81,
+        "Name": "Magnemite",
+        "Types": 1,
+        "Type1": 3,
+        "Type2": 0
+    },
+    "magneton": {
+        "id": 82,
+        "Name": "Magneton",
+        "Types": 1,
+        "Type1": 3,
+        "Type2": 0
+    },
+    "farfetchd": {
+        "id": 83,
+        "Name": "Farfetchd",
+        "Types": 2,
+        "Type1": 11,
+        "Type2": 6
+    },
+    "doduo": {
+        "id": 84,
+        "Name": "Doduo",
+        "Types": 2,
+        "Type1": 11,
+        "Type2": 6
+    },
+    "dodrio": {
+        "id": 85,
+        "Name": "Dodrio",
+        "Types": 2,
+        "Type1": 11,
+        "Type2": 6
+    },
+    "seel": {
+        "id": 86,
+        "Name": "Seel",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "dewgong": {
+        "id": 87,
+        "Name": "Dewgong",
+        "Types": 2,
+        "Type1": 15,
+        "Type2": 10
+    },
+    "grimer": {
+        "id": 88,
+        "Name": "Grimer",
+        "Types": 1,
+        "Type1": 12,
+        "Type2": 0
+    },
+    "muk": {
+        "id": 89,
+        "Name": "Muk",
+        "Types": 1,
+        "Type1": 12,
+        "Type2": 0
+    },
+    "shellder": {
+        "id": 90,
+        "Name": "Shellder",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "cloyster": {
+        "id": 91,
+        "Name": "Cloyster",
+        "Types": 2,
+        "Type1": 15,
+        "Type2": 10
+    },
+    "gastly": {
+        "id": 92,
+        "Name": "Gastly",
+        "Types": 2,
+        "Type1": 7,
+        "Type2": 12
+    },
+    "haunter": {
+        "id": 93,
+        "Name": "Haunter",
+        "Types": 2,
+        "Type1": 7,
+        "Type2": 12
+    },
+    "gengar": {
+        "id": 94,
+        "Name": "Gengar",
+        "Types": 2,
+        "Type1": 7,
+        "Type2": 12
+    },
+    "onix": {
+        "id": 95,
+        "Name": "Onix",
+        "Types": 2,
+        "Type1": 14,
+        "Type2": 9
+    },
+    "drowzee": {
+        "id": 96,
+        "Name": "Drowzee",
+        "Types": 1,
+        "Type1": 13,
+        "Type2": 0
+    },
+    "hypno": {
+        "id": 97,
+        "Name": "Hypno",
+        "Types": 1,
+        "Type1": 13,
+        "Type2": 0
+    },
+    "krabby": {
+        "id": 98,
+        "Name": "Krabby",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "kingler": {
+        "id": 99,
+        "Name": "Kingler",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "voltorb": {
+        "id": 100,
+        "Name": "Voltorb",
+        "Types": 1,
+        "Type1": 3,
+        "Type2": 0
+    },
+    "electrode": {
+        "id": 101,
+        "Name": "Electrode",
+        "Types": 1,
+        "Type1": 3,
+        "Type2": 0
+    },
+    "exeggcute": {
+        "id": 102,
+        "Name": "Exeggcute",
+        "Types": 2,
+        "Type1": 8,
+        "Type2": 13
+    },
+    "exeggutor": {
+        "id": 103,
+        "Name": "Exeggutor",
+        "Types": 2,
+        "Type1": 8,
+        "Type2": 13
+    },
+    "cubone": {
+        "id": 104,
+        "Name": "Cubone",
+        "Types": 1,
+        "Type1": 9,
+        "Type2": 0
+    },
+    "marowak": {
+        "id": 105,
+        "Name": "Marowak",
+        "Types": 1,
+        "Type1": 9,
+        "Type2": 0
+    },
+    "hitmonlee": {
+        "id": 106,
+        "Name": "Hitmonlee",
+        "Types": 1,
+        "Type1": 4,
+        "Type2": 0
+    },
+    "hitmonchan": {
+        "id": 107,
+        "Name": "Hitmonchan",
+        "Types": 1,
+        "Type1": 4,
+        "Type2": 0
+    },
+    "lickitung": {
+        "id": 108,
+        "Name": "Lickitung",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "koffing": {
+        "id": 109,
+        "Name": "Koffing",
+        "Types": 1,
+        "Type1": 12,
+        "Type2": 0
+    },
+    "weezing": {
+        "id": 110,
+        "Name": "Weezing",
+        "Types": 1,
+        "Type1": 12,
+        "Type2": 0
+    },
+    "rhyhorn": {
+        "id": 111,
+        "Name": "Rhyhorn",
+        "Types": 2,
+        "Type1": 9,
+        "Type2": 14
+    },
+    "rhydon": {
+        "id": 112,
+        "Name": "Rhydon",
+        "Types": 2,
+        "Type1": 9,
+        "Type2": 14
+    },
+    "chansey": {
+        "id": 113,
+        "Name": "Chansey",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "tangela": {
+        "id": 114,
+        "Name": "Tangela",
+        "Types": 1,
+        "Type1": 8,
+        "Type2": 0
+    },
+    "kangaskhan": {
+        "id": 115,
+        "Name": "Kangaskhan",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "horsea": {
+        "id": 116,
+        "Name": "Horsea",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "seadra": {
+        "id": 117,
+        "Name": "Seadra",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "goldeen": {
+        "id": 118,
+        "Name": "Goldeen",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "seaking": {
+        "id": 119,
+        "Name": "Seaking",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "staryu": {
+        "id": 120,
+        "Name": "Staryu",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "starmie": {
+        "id": 121,
+        "Name": "Starmie",
+        "Types": 2,
+        "Type1": 15,
+        "Type2": 13
+    },
+    "mr.mime": {
+        "id": 122,
+        "Name": "Mr.Mime",
+        "Types": 1,
+        "Type1": 13,
+        "Type2": 0
+    },
+    "scyther": {
+        "id": 123,
+        "Name": "Scyther",
+        "Types": 2,
+        "Type1": 1,
+        "Type2": 6
+    },
+    "jynx": {
+        "id": 124,
+        "Name": "Jynx",
+        "Types": 2,
+        "Type1": 10,
+        "Type2": 13
+    },
+    "electabuzz": {
+        "id": 125,
+        "Name": "Electabuzz",
+        "Types": 1,
+        "Type1": 3,
+        "Type2": 0
+    },
+    "magmar": {
+        "id": 126,
+        "Name": "Magmar",
+        "Types": 1,
+        "Type1": 5,
+        "Type2": 0
+    },
+    "pinsir": {
+        "id": 127,
+        "Name": "Pinsir",
+        "Types": 1,
+        "Type1": 1,
+        "Type2": 0
+    },
+    "tauros": {
+        "id": 128,
+        "Name": "Tauros",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "magikarp": {
+        "id": 129,
+        "Name": "Magikarp",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "gyarados": {
+        "id": 130,
+        "Name": "Gyarados",
+        "Types": 2,
+        "Type1": 15,
+        "Type2": 6
+    },
+    "lapras": {
+        "id": 131,
+        "Name": "Lapras",
+        "Types": 2,
+        "Type1": 15,
+        "Type2": 10
+    },
+    "ditto": {
+        "id": 132,
+        "Name": "Ditto",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "eevee": {
+        "id": 133,
+        "Name": "Eevee",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "vaporeon": {
+        "id": 134,
+        "Name": "Vaporeon",
+        "Types": 1,
+        "Type1": 15,
+        "Type2": 0
+    },
+    "jolteon": {
+        "id": 135,
+        "Name": "Jolteon",
+        "Types": 1,
+        "Type1": 3,
+        "Type2": 0
+    },
+    "flareon": {
+        "id": 136,
+        "Name": "Flareon",
+        "Types": 1,
+        "Type1": 5,
+        "Type2": 0
+    },
+    "porygon": {
+        "id": 137,
+        "Name": "Porygon",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "omanyte": {
+        "id": 138,
+        "Name": "Omanyte",
+        "Types": 2,
+        "Type1": 14,
+        "Type2": 15
+    },
+    "omastar": {
+        "id": 139,
+        "Name": "Omastar",
+        "Types": 2,
+        "Type1": 14,
+        "Type2": 15
+    },
+    "kabuto": {
+        "id": 140,
+        "Name": "Kabuto",
+        "Types": 2,
+        "Type1": 14,
+        "Type2": 15
+    },
+    "kabutops": {
+        "id": 141,
+        "Name": "Kabutops",
+        "Types": 2,
+        "Type1": 14,
+        "Type2": 15
+    },
+    "aerodactyl": {
+        "id": 142,
+        "Name": "Aerodactyl",
+        "Types": 2,
+        "Type1": 14,
+        "Type2": 6
+    },
+    "snorlax": {
+        "id": 143,
+        "Name": "Snorlax",
+        "Types": 1,
+        "Type1": 11,
+        "Type2": 0
+    },
+    "articuno": {
+        "id": 144,
+        "Name": "Articuno",
+        "Types": 2,
+        "Type1": 10,
+        "Type2": 6
+    },
+    "zapdos": {
+        "id": 145,
+        "Name": "Zapdos",
+        "Types": 2,
+        "Type1": 3,
+        "Type2": 6
+    },
+    "moltres": {
+        "id": 146,
+        "Name": "Moltres",
+        "Types": 2,
+        "Type1": 5,
+        "Type2": 6
+    },
+    "dratini": {
+        "id": 147,
+        "Name": "Dratini",
+        "Types": 1,
+        "Type1": 2,
+        "Type2": 0
+    },
+    "dragonair": {
+        "id": 148,
+        "Name": "Dragonair",
+        "Types": 1,
+        "Type1": 2,
+        "Type2": 0
+    },
+    "dragonite": {
+        "id": 149,
+        "Name": "Dragonite",
+        "Types": 2,
+        "Type1": 2,
+        "Type2": 6
+    },
+    "mewtwo": {
+        "id": 150,
+        "Name": "Mewtwo",
+        "Types": 1,
+        "Type1": 13,
+        "Type2": 0
+    },
+    "mew": {
+        "id": 151,
+        "Name": "Mew",
+        "Types": 1,
+        "Type1": 13,
+        "Type2": 0
+    }
+}
